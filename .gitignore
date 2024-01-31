@@ -1,0 +1,17 @@
+.idea/
+target
+*.iws
+*.ipr
+*.iml
+.classpath
+.project
+.settings
+.springBeans
+.DS_Store
+.gradle
+.java-version
+TODO
+gradle.properties
+build
+bin/
+out/
